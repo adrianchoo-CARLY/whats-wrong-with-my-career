@@ -1,0 +1,16 @@
+{
+  "name": "career-agility-whats-wrong-with-my-career",
+  "displayName": "What's Wrong With My Career? by Career Agility International",
+  "version": "1.0.0",
+  "description": "A two-minute guided career diagnostic with CoachCAROL. Answer a few multiple-choice questions about feeling stuck, burnout, job security, workplace conflict, skills or a stalled job search, and get one of 43 result cards: the likely cause, three practical actions and a strategic question.",
+  "author": {
+    "name": "Career Agility International",
+    "email": "info@CareerAgility.org",
+    "url": "https://www.careeragility.org"
+  },
+  "homepage": "https://www.careeragility.org",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["career", "career-diagnostic", "job-search", "career-coaching", "burnout", "career-change", "interviews", "professional-development"],
+  "privacyPolicyUrl": "https://careeragility.org/privacy-policy",
+  "supportUrl": "mailto:info@careeragility.org"
+}
